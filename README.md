@@ -1,8 +1,10 @@
-### Hi there 👋
+<!--NAME-->
 # 🏋️‍♂️ Juan Cumbe
 
+<!--WHAT I DO-->
+**`👨🏽‍💻 Desarrollador Web y Multiplataforma  |⁣⁣  🖥 Especialista FullStack `**
 
-**juancumbeq/juancumbeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **juancumbeq/juancumbeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
