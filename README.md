@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/juancumbeq/juancumbeq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/juancumbeq/juancumbeq">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq" />
