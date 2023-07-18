@@ -56,6 +56,13 @@ Here are some ideas to get you started:
 <br />
 
 
+<a href="https://github.com/juancumbeq/juancumbeq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq" />
+</a>
+<a href="https://github.com/juancumbeq/juancumbeq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq" />
+</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq)](https://github.com/juancumbeq/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancumbeq)](https://github.com/juancumbeq/github-readme-stats)
 
