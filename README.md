@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=shades-of-purple&hide_border=true" />
 </a>
 <a href="https://github.com/juancumbeq/juancumbeq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=shades-of-purple&hide_border=true" />
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq)](https://github.com/juancumbeq/github-readme-stats)
