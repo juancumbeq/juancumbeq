@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!--BLOG-->
+---
 ### 📝 Blogs
 
 - Personal website and blog: https://zhenye-na.github.io/
