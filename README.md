@@ -1,8 +1,12 @@
-<!--NAME-->
-# Hi there... I'm Juan Cumbe 🏋️‍♂️
+<!--BANNER SUPERIOR-->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=45&duration=3500&pause=500&color=ADBBC6&vCenter=true&multiline=true&width=435&height=125&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Juan+Cumbe+%F0%9F%A4%93%E2%9C%8C%F0%9F%8F%BD)](https://git.io/typing-svg)
+
+<!--NAME-->
+<!--# Hi there... I'm Juan Cumbe 🏋️‍♂️R-->
+# 
 <!--WHAT I DO-->
-**`👨🏽‍💻 Desarrollador Web y Multiplataforma  |⁣⁣  🖥 Especialista FullStack `**
+**`👨🏽‍💻 Web & Multi-platform Developer  |⁣⁣  🖥 FullStack Especialist  |  ⚡️ Blockchain Technology Enthusiast`**
 <!-- **juancumbeq/juancumbeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
@@ -54,6 +58,15 @@ Here are some ideas to get you started:
       <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
       <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
+<!--LANGUAGES HIGHLIGHTS-->
+<div>
+      <a href="https://github.com/juancumbeq/juancumbeq">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancumbeq&layout=compact&show_icons=true&theme=shades-of-purple&hide_border=true" />
+      </a>
+      <a href="https://github.com/juancumbeq/juancumbeq">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancumbeq&hide_progress=true&show_icons=true&theme=shades-of-purple&hide_border=true" />
+      </a>
+</div>
 <br /><br /><br />
 
 
@@ -66,15 +79,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/juancumbeq/juancumbeq">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=shades-of-purple&hide_border=true" />
 </a>
-<!--LANGUAGES HIGHLIGHTS-->
-<div>
-      <a href="https://github.com/juancumbeq/juancumbeq">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancumbeq&layout=compact&show_icons=true&theme=shades-of-purple&hide_border=true" />
-      </a>
-      <a href="https://github.com/juancumbeq/juancumbeq">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancumbeq&hide_progress=true&show_icons=true&theme=shades-of-purple&hide_border=true" />
-      </a>
-</div>
+
 <br /><br />
 
 #
