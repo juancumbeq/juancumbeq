@@ -4,7 +4,7 @@
 
 #
 <!--WHAT I DO-->
-<p align="center" font-weight="bold">
+<p align="center">
       
      👨🏽‍💻 Web & Multi-platform Developer  |⁣⁣  🖥 FullStack Especialist  |  ⚡️ Blockchain Technology Enthusiast
 </p>
@@ -40,13 +40,6 @@ I'm an indie full-stack developer and content creator building my version of the
 <h3 align="center"">👽&nbsp;&nbsp;&nbsp;About Me</h3>
 <br/>
 
-- Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
-- CV Resume: https://rafnixg.dev/resume
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -54,6 +47,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 📇 CV Resume: https://rafnixg.dev/resume
 - ⚡ Fun fact: ... Everything I know I got it from 42 Barcelona, Ilerna Online, Platzi and By my own
 
 
