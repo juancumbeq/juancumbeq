@@ -3,11 +3,19 @@
 
 
 #
-<!--WHAT I DO-->
+<!--WHAT I DO
 <p align="center" font-weight="bold">
       
      👨🏽‍💻 Web & Multi-platform Developer  |⁣⁣  🖥 FullStack Especialist  |  ⚡️ Blockchain Technology Enthusiast
+</p>-->
+
+
+<p align="center" font-weight="bold">
+      <code>👨🏽‍💻 Web & Multi-platform Developer  |⁣⁣  🖥 FullStack Especialist  |  ⚡️ Blockchain Technology Enthusiast</code>
+     
 </p>
+
+
 <!--
 **`👨🏽‍💻 Web & Multi-platform Developer  |⁣⁣  🖥 FullStack Especialist  |  ⚡️ Blockchain Technology Enthusiast`**
 **juancumbeq/juancumbeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
