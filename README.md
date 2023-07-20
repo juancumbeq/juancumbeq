@@ -53,10 +53,11 @@ I started my coding journey as a naive computer science student with a passion t
 
 <!--BLOG-->
 ---
-### 📝 Blogs
-
-- Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
+<!--### 📝 Blogs-->
+<br/>
+<h3 align="center"">📝&nbsp;&nbsp;&nbsp;Blogs</h3>
+<br/>
+- Personal website and blog: https://www.juancumbe.com/
 - [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
 
 
@@ -65,6 +66,7 @@ I started my coding journey as a naive computer science student with a passion t
 <!--### 🧰&nbsp;&nbsp;&nbsp; Languages and Tools-->
 <br/>
 <h3 align="center"">🧰&nbsp;&nbsp;&nbsp;Languages and Tools</h3>
+<br/>
 <p align="center">
       <a target="_blank"><img alt="Java" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>&nbsp;&nbsp;&nbsp;
       <a target="_blank"><img alt="Spring" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>&nbsp;&nbsp;&nbsp;
@@ -137,8 +139,6 @@ I started my coding journey as a naive computer science student with a passion t
       </p>
       <br/>
 </details>
-
-
 <!--GITHUB STATISTICS-->
 <details>
   <summary><b>⚙️ &nbsp;&nbsp;&nbsp;GitHub Statistics</b></summary>
@@ -161,6 +161,7 @@ I started my coding journey as a naive computer science student with a passion t
 <!--### 🗂️ Highlight Projects-->
 <br/>
 <h3 align="center"">🗂️&nbsp;&nbsp;&nbsp;Highlight Projects</h3>
+<br/>
 <p width="100%" align="center">
       <a href="https://github.com/juancumbeq/juancumbeq">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
