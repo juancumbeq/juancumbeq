@@ -55,10 +55,13 @@ I started my coding journey as a naive computer science student with a passion t
 ---
 <!--### 📝 Blogs-->
 <br/>
-<h3 align="center"">📝&nbsp;&nbsp;&nbsp;Blogs</h3>
+<h3 align="center"">📝&nbsp;&nbsp;&nbsp;Blog</h3>
 <br/>
+
 - Personal website and blog: https://www.juancumbe.com/
 - [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+
+
 
 
 <!--TECHNOLOGIES AND LANGUAGES-->
