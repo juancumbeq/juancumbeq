@@ -137,14 +137,18 @@ Here are some ideas to get you started:
     </p>
     <p align="center">
           <img height="137px" src="https://github-readme-stats.vercel.app/api?username=juancumbeq&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
-          <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancumbeq&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+          <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancumbeq&hide=html&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
+      <p align="center">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=juancumbeq&theme=nightowl&bg_color=20232a&hide_border=true" width="100%"/>
+      </p>
 </details>
 
 
 <!--REPOS HIGHLIGHTS-->
 ---
 ### 🗂️ Highlight Projects
+<h2 align="center" style="border: 0px">⚡ Stats ⚡</h1>
 <a href="https://github.com/juancumbeq/juancumbeq">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=nightowl&hide_border=true" />
 </a>
