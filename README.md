@@ -52,30 +52,25 @@ Here are some ideas to get you started:
 ---
 ### 🧰&nbsp;&nbsp;&nbsp; Languages and Tools
 <br/>
-<div>
-      <a target="_blank"><img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a> 
-      <a target="_blank"><img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a> 
-      <a target="_blank"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a> 
-      <a target="_blank"><img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a> 
-      <a target="_blank"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a> 
-      <a target="_blank"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a> 
-      <a target="_blank"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a> 
-      <a target="_blank"><img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a> 
-      <a target="_blank"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a> 
-      <a target="_blank"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a> 
-      <a target="_blank"><img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a> 
-      <a target="_blank"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></a> 
-      <a target="_blank"><img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /></a> 
-      <a target="_blank"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a> 
-      <a target="_blank"><img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /></a> 
-      <a target="_blank"><img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a> 
-      <br/>
-</div>
+      <p align="center">
+            <a target="_blank"><img alt="Java" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="Spring" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="Angular" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="Git" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="Linux" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="HTML" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="CSS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="JavaScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="React" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="NodeJS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="Python" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="C++" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="GitHub" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="Gradle" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank"><img alt="Bash" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+      </p>
 <br/>
-
-<!--PARA EVITAR QUE EL DESPLEGABLE SE COLOQUE EN LA MISMA FILA-->
-<p align="center"></p>
-
 <!--LANGUAGES HIGHLIGHTS-->
 <details>
       <summary><b>🚀&nbsp;&nbsp;&nbsp; My Favourite Ones</b></summary>
@@ -98,13 +93,13 @@ Here are some ideas to get you started:
             <a target="_blank"><img alt="Gradle" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
             <a target="_blank"><img alt="Bash" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>&nbsp;&nbsp;&nbsp;
       </p>
+      <br/>
       <!--LANGUAGES PERCENT ANIMATION-->
       <p align="center">
             <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancumbeq&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
       </p>
+      <br/>
 </details>
-
-
 <!--LEARNING-->
 <details>
       <summary><b>🧠 &nbsp;&nbsp;&nbsp;Other knowledge, always learning</b></summary>
@@ -127,6 +122,7 @@ Here are some ideas to get you started:
             <a target="_blank"><img alt="Gradle" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
             <a target="_blank"><img alt="Bash" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>&nbsp;&nbsp;&nbsp;
       </p>
+      <br/>
 </details>
 
 
