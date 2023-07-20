@@ -153,12 +153,12 @@ I started my coding journey as a naive computer science student with a passion t
             <img src="https://github-readme-activity-graph.vercel.app/graph?username=juancumbeq&theme=nightowl&bg_color=20232a&hide_border=true" width="100%"/>
       </p>
 </details>
-<br/>
 
 
 <!--REPOS HIGHLIGHTS-->
 ---
 <!--### 🗂️ Highlight Projects-->
+<br/>
 <h3 align="center"">🗂️&nbsp;&nbsp;&nbsp;Highlight Projects</h3>
 <p width="100%" align="center">
       <a href="https://github.com/juancumbeq/juancumbeq">
