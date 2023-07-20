@@ -1,16 +1,22 @@
 <!--BANNER SUPERIOR-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=45&duration=3500&pause=500&color=ADBBC6&vCenter=true&multiline=true&width=435&height=125&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Juan+Cumbe+%F0%9F%A4%93%E2%9C%8C%F0%9F%8F%BD)](https://git.io/typing-svg)
 
-<!--NAME-->
-<!--# Hi there... I'm Juan Cumbe 🏋️‍♂️R-->
-# 
+
+#
 <!--WHAT I DO-->
+<p align="center" font-weight="bold">
+      
+     👨🏽‍💻 Web & Multi-platform Developer  |⁣⁣  🖥 FullStack Especialist  |  ⚡️ Blockchain Technology Enthusiast
+</p>
+<!--
 **`👨🏽‍💻 Web & Multi-platform Developer  |⁣⁣  🖥 FullStack Especialist  |  ⚡️ Blockchain Technology Enthusiast`**
-<!-- **juancumbeq/juancumbeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**juancumbeq/juancumbeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+-->
 
 
 <!--DESCRIPTION-->
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+<br/><br/>
 
 
 <!--CONTACT ACTION BUTTONS-->
@@ -21,9 +27,13 @@ I'm an indie full-stack developer and content creator building my version of the
       <a target="_blank" href="https://www.juancumbe.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+
 <!--ABOUT ME-->
 ---
-### 👽 About Me
+<!--### 👽 About Me-->
+<br/>
+<h3 align="center"">👽&nbsp;&nbsp;&nbsp;About Me</h3>
+<br/>
 
 - Personal website and blog: https://zhenye-na.github.io/
 - Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
@@ -60,8 +70,6 @@ I started my coding journey as a naive computer science student with a passion t
 
 - Personal website and blog: https://www.juancumbe.com/
 - [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
-
-
 
 
 <!--TECHNOLOGIES AND LANGUAGES-->
