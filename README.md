@@ -40,15 +40,14 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 <h3 align="center"">👽&nbsp;&nbsp;&nbsp;About Me</h3>
 <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- 📇 CV Resume: https://rafnixg.dev/resume
-- ⚡ Fun fact: ... Everything I know I got it from 42 Barcelona, Ilerna Online, Platzi and By my own
+- 🔭 I’m currently working on **creating an awesome portfolio to show my skillset**
+- 🌱 I’m currently learning **Python**
+- 👯 I’m looking to collaborate on **Blockchain or AI related projects**
+- 🤔 I’m looking for help with **my pah as a Junior Developer**
+- 💬 Ask me about **CrossFit, motorbikes, food and code**
+- 📫 How to reach me: **by email, check the link above**
+- 📇 CV Resume: https://juancumbe.com/resume
+- ⚡ Fun fact: ... **I acquired my knowledge from 42 Barcelona, Ilerna Online, Platzi, and self-study.**
 
 
 <!--CODING JOURNEY-->
