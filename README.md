@@ -235,6 +235,6 @@ I started my coding journey as a naive computer science student with a passion t
 <br/>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=juancumbeq&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/juancumbeq/juancumbeq?color=black&logo=github"/>
+<!--<img src="https://badges.pufler.dev/visits/juancumbeq/juancumbeq?color=black&logo=github" />-->
 </p>
 
