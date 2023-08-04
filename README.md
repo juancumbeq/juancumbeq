@@ -175,13 +175,13 @@ I started my coding journey as a naive computer science student with a passion t
       <a href="https://github.com/juancumbeq/juancumbeq">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/juancumbeq/juancumbeq">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
+      <a href="https://github.com/juancumbeq/DAW_M07_Server_Environment_Project">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=DAW_M07_Server_Environment_Project&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
       </a>
 </p>
 <p width="100%" align="center">
-      <a href="https://github.com/juancumbeq/juancumbeq">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
+      <a href="https://github.com/juancumbeq/DAW_M07_Server_Environment_Project">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=DAW_M07_Server_Environment_Project&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/juancumbeq/juancumbeq">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
@@ -210,12 +210,12 @@ I started my coding journey as a naive computer science student with a passion t
             <a target="_blank" href=""><img height="30px" src="https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000" /></a>&nbsp;&nbsp;
       </p>
 </details>
-<!--FULLSTACK PROJECTS-->
+<!--BACK-END PROJECTS-->
 <details>
       <summary><b>🧮 &nbsp;&nbsp;&nbsp;Back-End Projects</b></summary>
       <br/>
       <p align="center">
-            <a target="_blank" href=""><img height="30px" src="https://img.shields.io/badge/-🧬%20My%20Website-000" /></a>&nbsp;&nbsp;
+            <a target="_blank" href="https://github.com/juancumbeq/DAW_M07_Server_Environment_Project"><img height="30px" src="https://img.shields.io/badge/-🧬%20M07%20A%20Store's%20Back%20Office-000" /></a>&nbsp;&nbsp;
             <a target="_blank" href=""><img height="30px" src="https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000" /></a>&nbsp;&nbsp;
             <a target="_blank" href=""><img height="30px" src="https://img.shields.io/badge/-📝%20Summarizer-000" /></a>&nbsp;&nbsp;
             <a target="_blank" href=""><img height="30px" src="https://img.shields.io/badge/-🔬%20Overwatch-000" /></a>&nbsp;&nbsp;
