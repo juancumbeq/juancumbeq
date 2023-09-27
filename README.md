@@ -175,21 +175,13 @@ I started my coding journey as a naive computer science student with a passion t
       <a href="https://github.com/juancumbeq/juancumbeq">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/juancumbeq/DAW_M07_Server_Environment_Project">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=DAW_M07_Server_Environment_Project&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
+      <a href="https://github.com/juancumbeq/42_BCN_C_Piscine_2023">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=42_BCN_C_Piscine_2023&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
       </a>
 </p>
 <p width="100%" align="center">
       <a href="https://github.com/juancumbeq/DAW_M07_Server_Environment_Project">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=DAW_M07_Server_Environment_Project&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
-      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/juancumbeq/juancumbeq">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
-      </a>
-</p>
-<p width="100%" align="center">
-      <a href="https://github.com/juancumbeq/juancumbeq">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/juancumbeq/juancumbeq">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
