@@ -22,7 +22,7 @@ SIN CENTRAR
 
 <!--DESCRIPTION-->
 
-II'm an aspiring junior full-stack developer eager to create an impact in the digital world. I enjoy building coding projects from the ground up, starting with planning and design. I find inspiration in content creators who use code to solve real-life problems.
+I'm an aspiring junior full-stack developer eager to create an impact in the digital world. I enjoy building coding projects from the ground up, starting with planning and design. I find inspiration in content creators who use code to solve real-life problems.
 <br/><br/>
 
 <!--CONTACT ACTION BUTTONS-->
