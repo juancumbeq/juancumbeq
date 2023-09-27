@@ -1,8 +1,9 @@
 <!--BANNER SUPERIOR-->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=45&duration=3500&pause=500&color=ADBBC6&vCenter=true&multiline=true&width=435&height=125&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Juan+Cumbe+%F0%9F%A4%93%E2%9C%8C%F0%9F%8F%BD)](https://git.io/typing-svg)
 
-
 #
+
 <!--WHAT I DO-->
 <p align="center">
       
@@ -16,13 +17,13 @@
 
 SIN CENTRAR
 **`👨🏽‍💻 Web & Multi-platform Developer  |⁣⁣  🖥 FullStack Especialist  |  ⚡️ Blockchain Technology Enthusiast`**
-**juancumbeq/juancumbeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+**juancumbeq/juancumbeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <!--DESCRIPTION-->
-I'm an aspiring junior full-stack developer eager to create an impact in the digital world. I enjoy building coding projects from the ground up, starting with planning and design. I find inspiration in content creators who use code to solve real-life problems.
-<br/><br/>
 
+II'm an aspiring junior full-stack developer eager to create an impact in the digital world. I enjoy building coding projects from the ground up, starting with planning and design. I find inspiration in content creators who use code to solve real-life problems.
+<br/><br/>
 
 <!--CONTACT ACTION BUTTONS-->
 <p align="center">
@@ -32,9 +33,8 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
       <a target="_blank" href="https://www.juancumbe.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+## <!--ABOUT ME-->
 
-<!--ABOUT ME-->
----
 <!--### 👽 About Me-->
 <br/>
 <h3 align="center"">👽&nbsp;&nbsp;&nbsp;About Me</h3>
@@ -49,7 +49,6 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 - 📇 CV Resume: https://juancumbe.com/resume
 - ⚡ Fun fact: ... **I acquired my knowledge from 42 Barcelona, Ilerna Online, Platzi, and self-study.**
 
-
 <!--CODING JOURNEY-->
 <details>
 <summary><h3>👨‍💻 Juan's Coding Journey</h3></summary>
@@ -58,9 +57,8 @@ I started my coding journey as a naive computer science student with a passion t
       </p>
 </details>
 
+## <!--BLOG-->
 
-<!--BLOG-->
----
 <!--### 📝 Blogs-->
 <br/>
 <h3 align="center"">📝&nbsp;&nbsp;&nbsp;Blog</h3>
@@ -69,9 +67,8 @@ I started my coding journey as a naive computer science student with a passion t
 - Personal website and blog: https://www.juancumbe.com/
 - [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
 
+## <!--TECHNOLOGIES AND LANGUAGES-->
 
-<!--TECHNOLOGIES AND LANGUAGES-->
----
 <!--### 🧰&nbsp;&nbsp;&nbsp; Languages and Tools-->
 <br/>
 <h3 align="center"">🧰&nbsp;&nbsp;&nbsp;Languages and Tools</h3>
@@ -164,9 +161,8 @@ I started my coding journey as a naive computer science student with a passion t
       </p>
 </details>
 
+## <!--REPOS HIGHLIGHTS-->
 
-<!--REPOS HIGHLIGHTS-->
----
 <!--### 🗂️ Highlight Projects-->
 <br/>
 <h3 align="center"">🗂️&nbsp;&nbsp;&nbsp;Highlight Projects</h3>
@@ -221,12 +217,12 @@ I started my coding journey as a naive computer science student with a passion t
   <a href="https://github.com/juancumbeq?tab=repositories" title="Show Repositories">🔎&nbsp;&nbsp;&nbsp;Show More</a>
 </h4>
 
-
 <!--VIEWS & VISITS COUNTER-->
+
 #
+
 <br/>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=juancumbeq&style=plastic&label=Views"><img>
 <!--<img src="https://badges.pufler.dev/visits/juancumbeq/juancumbeq?color=black&logo=github" />-->
 </p>
-
