@@ -45,8 +45,8 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 - 👯 I’m looking to collaborate on **Blockchain or AI related projects**
 - 🤔 I’m looking for help with **my pah as a Junior Developer**
 - 💬 Ask me about **CrossFit, motorbikes, food and code**
-- 📫 How to reach me: **by email, check the link above**
-- 📇 CV Resume: <a href="https://www.linkedin.com/in/juancumbeq/overlay/1708013726640/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY" target="_blank">Link here</a>
+- 📫 How to reach me: **by email**, check the link above
+- 📇 CV Resume: [English](https://www.linkedin.com/in/juancumbeq/overlay/1708013726640/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY) or [Spanish](https://www.linkedin.com/in/juancumbeq/overlay/1708013762927/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY)
 <!-- - ⚡ Fun fact: ... **I acquired my knowledge from 42 Barcelona, Ilerna Online, Platzi, and self-study.** -->
 
 <!-- CODING JOURNEY
