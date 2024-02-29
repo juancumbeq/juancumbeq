@@ -33,6 +33,8 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
       <a target="_blank" href="https://www.juancumbe.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+
+
 ## <!--ABOUT ME-->
 
 <!--### 👽 About Me-->
@@ -49,7 +51,6 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 - 📇 CV Resume: [English](https://www.linkedin.com/in/juancumbeq/overlay/1708013726640/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY) or [Spanish](https://www.linkedin.com/in/juancumbeq/overlay/1708013762927/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY)
 
 <!-- - ⚡ Fun fact: ... **I acquired my knowledge from 42 Barcelona, Ilerna Online, Platzi, and self-study.** -->
-
 <!-- CODING JOURNEY
 <details>
 <summary><h3>👨‍💻 Juan's Coding Journey</h3></summary>
@@ -59,7 +60,6 @@ I started my coding journey as a naive computer science student with a passion t
 </details>
 
 ## <!--BLOG-->
-
 <!--### 📝 Blogs-->
 <!-- <br/>
 <h3 align="center"">📝&nbsp;&nbsp;&nbsp;Blog</h3>
@@ -67,6 +67,8 @@ I started my coding journey as a naive computer science student with a passion t
 
 - Personal website and blog: https://www.juancumbe.com/
 - [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/ -->
+
+
 
 ## <!--TECHNOLOGIES AND LANGUAGES-->
 <br/>
@@ -77,6 +79,7 @@ I started my coding journey as a naive computer science student with a passion t
             <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancumbeq&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
       </p>
       <br/>
+
 <!--LANGUAGES HIGHLIGHTS-->
 <details>
       <summary><b>🚀&nbsp;&nbsp;&nbsp; Front-end</b></summary>
@@ -92,6 +95,7 @@ I started my coding journey as a naive computer science student with a passion t
       </p>
       <br/>
 </details>
+
 <details>
       <summary><b>🚀&nbsp;&nbsp;&nbsp; Back-end</b></summary>
       <br/> 
@@ -105,6 +109,7 @@ I started my coding journey as a naive computer science student with a passion t
       </p>
       <br/>
 </details>
+
 <details>
       <summary><b>🚀&nbsp;&nbsp;&nbsp; Others</b></summary>
       <br/> 
@@ -121,20 +126,6 @@ I started my coding journey as a naive computer science student with a passion t
 
 
 
-
-
-
-
-
-<!--LEARNING
-<details>
-      <summary><b>🧠 &nbsp;&nbsp;&nbsp;Other Knowledge, Always Learning</b></summary>
-      <br/>
-      <p align="center">
-            <a target="_blank"><img alt="Java" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-      </p>
-      <br/>
-</details>-->
 <!--GITHUB STATISTICS-->
 <details>
   <summary><b>⚙️ &nbsp;&nbsp;&nbsp;GitHub Statistics</b></summary>
@@ -151,8 +142,9 @@ I started my coding journey as a naive computer science student with a passion t
       </p>
 </details>
 
-## <!--REPOS HIGHLIGHTS-->
 
+
+## <!--REPOS HIGHLIGHTS-->
 <!--### 🗂️ Highlight Projects-->
 <br/>
 <h3 align="center"">🗂️&nbsp;&nbsp;&nbsp;Highlight Projects</h3>
