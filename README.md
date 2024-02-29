@@ -27,7 +27,7 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 
 <!--CONTACT ACTION BUTTONS-->
 <p align="center">
-      <a target="_blank" href="mailto:hola@juancumbe.com?subject=Mensaje%20desde%20Github%20-%20Hola%20Juan%20Cumbe"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a target="_blank" href="mailto:hello@juancumbe.com?subject=Mensaje%20desde%20Github%20-%20Hola%20Juan%20Cumbe"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a target="_blank" href="https://www.instagram.com/juancumbeq/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a target="_blank" href="https://www.linkedin.com/in/juancumbeq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a target="_blank" href="https://www.juancumbe.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,15 +41,15 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 <br/>
 
 - 🔭 I’m currently working on **creating an awesome portfolio to show my skillset**
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **TypeScript**
 - 👯 I’m looking to collaborate on **Blockchain or AI related projects**
 - 🤔 I’m looking for help with **my pah as a Junior Developer**
 - 💬 Ask me about **CrossFit, motorbikes, food and code**
 - 📫 How to reach me: **by email, check the link above**
-- 📇 CV Resume: https://juancumbe.com/resume
-- ⚡ Fun fact: ... **I acquired my knowledge from 42 Barcelona, Ilerna Online, Platzi, and self-study.**
+<!-- - 📇 CV Resume: https://juancumbe.com/resume
+- ⚡ Fun fact: ... **I acquired my knowledge from 42 Barcelona, Ilerna Online, Platzi, and self-study.** -->
 
-<!--CODING JOURNEY-->
+<!-- CODING JOURNEY
 <details>
 <summary><h3>👨‍💻 Juan's Coding Journey</h3></summary>
       <p>
@@ -60,12 +60,12 @@ I started my coding journey as a naive computer science student with a passion t
 ## <!--BLOG-->
 
 <!--### 📝 Blogs-->
-<br/>
+<!-- <br/>
 <h3 align="center"">📝&nbsp;&nbsp;&nbsp;Blog</h3>
 <br/>
 
 - Personal website and blog: https://www.juancumbe.com/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/ -->
 
 ## <!--TECHNOLOGIES AND LANGUAGES-->
 
