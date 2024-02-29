@@ -167,7 +167,7 @@ I started my coding journey as a naive computer science student with a passion t
 </p>
 <br/>
 <!--FULLSTACK PROJECTS-->
-<details>
+<!-- <details>
       <summary><b>🌝 &nbsp;&nbsp;&nbsp;FullStack Projects</b></summary>
       <br/>
       <p align="center">
@@ -179,9 +179,9 @@ I started my coding journey as a naive computer science student with a passion t
             <a target="_blank" href=""><img height="30px" src="https://img.shields.io/badge/-🔊%20Voice%20Poker-000" /></a>&nbsp;&nbsp;
             <a target="_blank" href=""><img height="30px" src="https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000" /></a>&nbsp;&nbsp;
       </p>
-</details>
+</details> -->
 <!--BACK-END PROJECTS-->
-<details>
+<!-- <details>
       <summary><b>🧮 &nbsp;&nbsp;&nbsp;Back-End Projects</b></summary>
       <br/>
       <p align="center">
@@ -193,7 +193,7 @@ I started my coding journey as a naive computer science student with a passion t
             <a target="_blank" href=""><img height="30px" src="https://img.shields.io/badge/-🔊%20Voice%20Poker-000" /></a>&nbsp;&nbsp;
             <a target="_blank" href=""><img height="30px" src="https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000" /></a>&nbsp;&nbsp;
       </p>
-</details>
+</details> -->
 <!--SHOW MORE-->
 <h4>
   <a href="https://github.com/juancumbeq?tab=repositories" title="Show Repositories">🔎&nbsp;&nbsp;&nbsp;Show More</a>
