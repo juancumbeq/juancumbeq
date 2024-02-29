@@ -75,10 +75,7 @@ I started my coding journey as a naive computer science student with a passion t
 <h3 align="center"">🧰&nbsp;&nbsp;&nbsp;Languages and Tools</h3>
 <br/>
 <p align="center">
-      <img alt="Java" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" onclick="return false;" />&nbsp;&nbsp;&nbsp;
-      <!--<a target="_blank"><img alt="Spring" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>&nbsp;&nbsp;&nbsp;-->
-      <!--<a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;-->
-      <!--<a target="_blank"><img alt="Angular" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>&nbsp;&nbsp;&nbsp;-->
+      <a target="_blank"><img alt="Java" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>&nbsp;&nbsp;&nbsp;
       <a target="_blank"><img alt="Git" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>&nbsp;&nbsp;&nbsp;
       <a target="_blank"><img alt="Linux" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>&nbsp;&nbsp;&nbsp;
       <a target="_blank"><img alt="HTML" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
@@ -89,8 +86,6 @@ I started my coding journey as a naive computer science student with a passion t
       <a target="_blank"><img alt="Python" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
       <a target="_blank"><img alt="C++" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /></a>&nbsp;&nbsp;&nbsp;
       <a target="_blank"><img alt="GitHub" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-      <!--<a target="_blank"><img alt="Gradle" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /></a>&nbsp;&nbsp;&nbsp;-->
-      <!--<a target="_blank"><img alt="Bash" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>&nbsp;&nbsp;&nbsp;-->
 </p>
 <br/>
 <!--LANGUAGES HIGHLIGHTS-->
@@ -112,7 +107,6 @@ I started my coding journey as a naive computer science student with a passion t
             <a target="_blank"><img alt="Python" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
             <a target="_blank"><img alt="C++" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /></a>&nbsp;&nbsp;&nbsp;
             <a target="_blank"><img alt="GitHub" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="Gradle" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
             <a target="_blank"><img alt="Bash" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>&nbsp;&nbsp;&nbsp;
       </p>
       <br/>
@@ -122,30 +116,15 @@ I started my coding journey as a naive computer science student with a passion t
       </p>
       <br/>
 </details>
-<!--LEARNING-->
+<!--LEARNING
 <details>
       <summary><b>🧠 &nbsp;&nbsp;&nbsp;Other Knowledge, Always Learning</b></summary>
       <br/>
       <p align="center">
             <a target="_blank"><img alt="Java" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="Spring" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="Angular" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="Git" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="Linux" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="HTML" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="CSS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="JavaScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="React" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="NodeJS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="Python" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="C++" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="GitHub" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="Gradle" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a target="_blank"><img alt="Bash" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>&nbsp;&nbsp;&nbsp;
       </p>
       <br/>
-</details>
+</details>-->
 <!--GITHUB STATISTICS-->
 <details>
   <summary><b>⚙️ &nbsp;&nbsp;&nbsp;GitHub Statistics</b></summary>
