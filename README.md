@@ -75,7 +75,7 @@ I started my coding journey as a naive computer science student with a passion t
 <h3 align="center"">🧰&nbsp;&nbsp;&nbsp;Languages and Tools</h3>
 <br/>
 <p align="center">
-      <img alt="Java" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;&nbsp;
+      <img alt="Java" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" onclick="return false;" />&nbsp;&nbsp;&nbsp;
       <!--<a target="_blank"><img alt="Spring" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>&nbsp;&nbsp;&nbsp;-->
       <!--<a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;-->
       <!--<a target="_blank"><img alt="Angular" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>&nbsp;&nbsp;&nbsp;-->
