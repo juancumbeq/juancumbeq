@@ -47,6 +47,7 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 - 💬 Ask me about **CrossFit, motorbikes, food and code**
 - 📫 How to reach me: **by email**, check the link above
 - 📇 CV Resume: [English](https://www.linkedin.com/in/juancumbeq/overlay/1708013726640/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY) or [Spanish](https://www.linkedin.com/in/juancumbeq/overlay/1708013762927/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY)
+
 <!-- - ⚡ Fun fact: ... **I acquired my knowledge from 42 Barcelona, Ilerna Online, Platzi, and self-study.** -->
 
 <!-- CODING JOURNEY
@@ -74,7 +75,7 @@ I started my coding journey as a naive computer science student with a passion t
 <h3 align="center"">🧰&nbsp;&nbsp;&nbsp;Languages and Tools</h3>
 <br/>
 <p align="center">
-      <a target="_blank"><img alt="Java" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+      <img alt="Java" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;&nbsp;
       <!--<a target="_blank"><img alt="Spring" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>&nbsp;&nbsp;&nbsp;-->
       <!--<a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;-->
       <!--<a target="_blank"><img alt="Angular" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>&nbsp;&nbsp;&nbsp;-->
