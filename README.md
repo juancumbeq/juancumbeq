@@ -1,7 +1,5 @@
 <p align="right">
-
-[Click here for Español](README_ES.md)
-
+      <a href="README_ES.md" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 0 10px;">Click here for Español</a>
 </p>
 
 <!--BANNER SUPERIOR-->
