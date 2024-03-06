@@ -1,5 +1,7 @@
 <a href="README_ES.md" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 0 10px;">Click here for Español</a>
 
+[Click here for Español]()
+
 <!--BANNER SUPERIOR-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=45&duration=3500&pause=500&color=ADBBC6&vCenter=true&multiline=true&width=435&height=125&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Juan+Cumbe+%F0%9F%A4%93%E2%9C%8C%F0%9F%8F%BD)](https://git.io/typing-svg)
