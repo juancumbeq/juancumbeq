@@ -1,5 +1,5 @@
 <p align="right">
-      <a href="README_ES.md">Haga clic aquí para Español.</a>
+      <a href="README_ES.md">Haga clic aquí para versión en español</a>
 </p>
 
 <!--BANNER SUPERIOR-->
