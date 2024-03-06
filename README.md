@@ -1,4 +1,8 @@
+<p align="right">
+
 [Click here for Español](README_ES.md)
+
+</p>
 
 <!--BANNER SUPERIOR-->
 
@@ -35,8 +39,6 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
       <a target="_blank" href="https://www.juancumbe.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
-
 ## <!--ABOUT ME-->
 
 <!--### 👽 About Me-->
@@ -70,9 +72,8 @@ I started my coding journey as a naive computer science student with a passion t
 - Personal website and blog: https://www.juancumbe.com/
 - [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/ -->
 
-
-
 ## <!--TECHNOLOGIES AND LANGUAGES-->
+
 <br/>
 <h3 align="center"">🧰&nbsp;&nbsp;&nbsp;Languages and Tools</h3>
 <br/>
@@ -126,8 +127,6 @@ I started my coding journey as a naive computer science student with a passion t
       <br/>
 </details>
 
-
-
 <!--GITHUB STATISTICS-->
 <details>
   <summary><b>⚙️ &nbsp;&nbsp;&nbsp;GitHub Statistics</b></summary>
@@ -144,9 +143,8 @@ I started my coding journey as a naive computer science student with a passion t
       </p>
 </details>
 
-
-
 ## <!--REPOS HIGHLIGHTS-->
+
 <!--### 🗂️ Highlight Projects-->
 <br/>
 <h3 align="center"">🗂️&nbsp;&nbsp;&nbsp;Highlight Projects</h3>
