@@ -3,6 +3,7 @@
 </p>
 
 <!--BANNER SUPERIOR-->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=45&duration=3500&pause=500&color=ADBBC6&vCenter=true&multiline=true&width=435&height=125&lines=Hola+a+todos!+%F0%9F%91%8B%F0%9F%8F%BD;soy+Juan+Cumbe+%F0%9F%A4%93%E2%9C%8C%F0%9F%8F%BD)](https://git.io/typing-svg)
 
 #
@@ -13,8 +14,8 @@
      👨🏽‍💻 Desarrollador Web & Multi-platforma  |⁣⁣  🖥 Especialista FullStack  |  ⚡️ Entusiasta de la Tecnología Blockchain
 </p>
 
-
 <!--DESCRIPTION-->
+
 Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo digital. Disfruto construyendo proyectos de codificación desde cero, comenzando con la planificación y el diseño. Encuentro inspiración en los creadores de contenido que utilizan el código para resolver problemas de la vida real.
 <br/>
 <br/>
@@ -32,18 +33,18 @@ Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo dig
 </p>
 
 ## <!--ABOUT ME-->
+
 <br/>
   <h3 align="center"">👽&nbsp;&nbsp;&nbsp;Sobre Mi</h3>
 <br/>
 
-  - 🔭 Actualmente estoy trabajando en crear un **portfolio** impresionante para mostrar mis habilidades.
-  - 🌱 Actualmente estoy aprendiendo **TypeScript**.
-  - 👯 Estoy buscando colaborar en proyectos relacionados con **Blockchain** o **IA**.
-  - 🤔 Estoy buscando ayuda en mi camino como **Desarrollador Junior FullStack**.
-  - 💬 Pregúntame sobre **CrossFit, motocicletas, comida y código**.
-  - 📫 Cómo contactarme?: por **correo electrónico**, mediante el enlace superior.
-  - 📇 Currículum: [Inglés](https://www.linkedin.com/in/juancumbeq/overlay/1708013726640/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY) o [Castellano](https://www.linkedin.com/in/juancumbeq/overlay/1708013762927/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY).
-
+- 🔭 Actualmente estoy trabajando en crear un **portfolio** impresionante para mostrar mis habilidades.
+- 🌱 Actualmente estoy aprendiendo **TypeScript**.
+- 👯 Estoy buscando colaborar en proyectos relacionados con **Blockchain** o **IA**.
+- 🤔 Estoy buscando ayuda en mi camino como **Desarrollador Junior FullStack**.
+- 💬 Pregúntame sobre **CrossFit, motocicletas, comida y código**.
+- 📫 Cómo contactarme?: por **correo electrónico**, mediante el enlace superior.
+- 📇 Currículum: [Inglés](https://www.linkedin.com/in/juancumbeq/overlay/1708013726640/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY) o [Castellano](https://www.linkedin.com/in/juancumbeq/overlay/1708013762927/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY).
 
 ## <!--TECHNOLOGIES AND LANGUAGES-->
 
@@ -57,67 +58,64 @@ Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo dig
 <br/>
 
 <!--LANGUAGES HIGHLIGHTS-->
-<details>
-  <summary><b>🚀&nbsp;&nbsp;&nbsp; Front-end</b></summary>
-  <br/> 
-  <p align="center">
-    <a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="Angular" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="HTML" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="CSS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="JavaScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="React" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="Vite" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-  </p>
-  <br/>
-</details>
+<summary><b>🚀&nbsp;&nbsp;&nbsp; Front-end</b></summary>
+<br/> 
+<p align="center">
+  <a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="Angular" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="HTML" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="CSS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="JavaScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="React" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="Vite" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+</p>
+<br/>
+<br/>
 
-<details>
-  <summary><b>🚀&nbsp;&nbsp;&nbsp; Back-end</b></summary>
-  <br/> 
-  <p align="center">
-    <a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="JavaScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="NodeJS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="Express" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="Docker" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="Mysql" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-  </p>
-  <br/>
-</details>
+<summary><b>🚀&nbsp;&nbsp;&nbsp; Back-end</b></summary>
+<br/> 
+<p align="center">
+  <a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="JavaScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="NodeJS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="Express" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="Docker" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="Mysql" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+</p>
+<br/>
+<br/>
 
-<details>
-  <summary><b>🚀&nbsp;&nbsp;&nbsp; Otros</b></summary>
-  <br/> 
-  <p align="center">
-    <a target="_blank"><img alt="Git" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="Linux" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="GitHub" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="Bash" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="Postman" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-    <a target="_blank"><img alt="Figma" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
-    &nbsp;&nbsp;&nbsp;
-  </p>
-  <br/>
-</details>
+<summary><b>🚀&nbsp;&nbsp;&nbsp; Otros</b></summary>
+<br/> 
+<p align="center">
+  <a target="_blank"><img alt="Git" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="Linux" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="GitHub" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="Bash" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="Postman" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img alt="Figma" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+</p>
+<br/>
+<br/>
 
 <!--GITHUB STATISTICS-->
 <details>
