@@ -38,8 +38,6 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 </p>
 
 ## <!--ABOUT ME-->
-
-<!--### 👽 About Me-->
 <br/>
 <h3 align="center"">👽&nbsp;&nbsp;&nbsp;About Me</h3>
 <br/>
@@ -52,26 +50,8 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 - 📫 How to reach me: **by email**, check the link above.
 - 📇 CV Resume: [English](https://www.linkedin.com/in/juancumbeq/overlay/1708013726640/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY) or [Spanish](https://www.linkedin.com/in/juancumbeq/overlay/1708013762927/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY).
 
-<!-- - ⚡ Fun fact: ... **I acquired my knowledge from 42 Barcelona, Ilerna Online, Platzi, and self-study.** -->
-<!-- CODING JOURNEY
-<details>
-<summary><h3>👨‍💻 Juan's Coding Journey</h3></summary>
-      <p>
-I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching               myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation.          However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has        been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
-      </p>
-</details>
-
-## <!--BLOG-->
-<!--### 📝 Blogs-->
-<!-- <br/>
-<h3 align="center"">📝&nbsp;&nbsp;&nbsp;Blog</h3>
-<br/>
-
-- Personal website and blog: https://www.juancumbe.com/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/ -->
 
 ## <!--TECHNOLOGIES AND LANGUAGES-->
-
 <br/>
 <h3 align="center"">🧰&nbsp;&nbsp;&nbsp;Languages and Tools</h3>
 <br/>
@@ -82,48 +62,47 @@ I started my coding journey as a naive computer science student with a passion t
 <br/>
 
 <!--LANGUAGES HIGHLIGHTS-->
-<details>
-	<summary><b>🚀&nbsp;&nbsp;&nbsp; Front-end</b></summary>
-	<br/> 
-	<p align="center">
-		<a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="Angular" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="HTML" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="CSS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="JavaScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="React" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="Vite" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+
+<summary><b>🚀&nbsp;&nbsp;&nbsp; Front-end</b></summary>
+<br/> 
+<p align="center">
+	<a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="Angular" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="HTML" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="CSS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="JavaScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="React" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="Vite" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" /></a>&nbsp;&nbsp;&nbsp;
 </p>
-	<br/>
-</details>
+<br/>
+<br/>
 
-<details>
-	<summary><b>🚀&nbsp;&nbsp;&nbsp; Back-end</b></summary>
-	<br/> 
-	<p align="center">
-		<a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="JavaScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="NodeJS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="Express" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="Docker" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="Mysql" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-	</p>
-	<br/>
-</details>
 
-<details>
-	<summary><b>🚀&nbsp;&nbsp;&nbsp; Others</b></summary>
-	<br/> 
-	<p align="center">
-		<a target="_blank"><img alt="Git" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="Linux" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="GitHub" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="Bash" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="Postman" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-		<a target="_blank"><img alt="Figma" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-	</p>
-	<br/>
-</details>
+<summary><b>🚀&nbsp;&nbsp;&nbsp; Back-end</b></summary>
+<br/> 
+<p align="center">
+	<a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="JavaScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="NodeJS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="Express" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="Docker" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="Mysql" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+<br/>
+<br/>
+
+<summary><b>🚀&nbsp;&nbsp;&nbsp; Others</b></summary>
+<br/> 
+<p align="center">
+	<a target="_blank"><img alt="Git" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="Linux" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="GitHub" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="Bash" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="Postman" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank"><img alt="Figma" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+<br/>
+<br/>
 
 <!--GITHUB STATISTICS-->
 <details>
