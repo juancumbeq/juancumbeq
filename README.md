@@ -63,7 +63,7 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 
 <!--LANGUAGES HIGHLIGHTS-->
 
-<summary><b>🚀&nbsp;&nbsp;&nbsp; Front-end</b></summary>
+<b>🚀&nbsp;&nbsp;&nbsp; Front-end</b>
 <br/> 
 <p align="center">
 	<a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
@@ -78,7 +78,7 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 <br/>
 
 
-<summary><b>🚀&nbsp;&nbsp;&nbsp; Back-end</b></summary>
+<b>🚀&nbsp;&nbsp;&nbsp; Back-end</b>
 <br/> 
 <p align="center">
 	<a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>&nbsp;&nbsp;&nbsp;
@@ -91,7 +91,7 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 <br/>
 <br/>
 
-<summary><b>🚀&nbsp;&nbsp;&nbsp; Others</b></summary>
+<b>🚀&nbsp;&nbsp;&nbsp; Others</b>
 <br/> 
 <p align="center">
 	<a target="_blank"><img alt="Git" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>&nbsp;&nbsp;&nbsp;
