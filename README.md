@@ -127,15 +127,15 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 <h3 align="center"">🗂️&nbsp;&nbsp;&nbsp;Highlight Projects</h3>
 <br/>
 <p width="100%" align="center">
-	<a href="https://github.com/juancumbeq/juancumbeq">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
+	<a href="https://github.com/juancumbeq/daw_m12_web_project_taskteam">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=daw_m12_web_project_taskteam&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
 	</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/juancumbeq/42_BCN_C_Piscine_2023">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=42_BCN_C_Piscine_2023&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
 	</a>
 </p>
-<p width="100%" align="center">
+<!-- <p width="100%" align="center">
 	<a href="https://github.com/juancumbeq/DAW_M07_Server_Environment_Project">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=DAW_M07_Server_Environment_Project&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
 	</a>
@@ -143,7 +143,7 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 	<a href="https://github.com/juancumbeq/juancumbeq">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancumbeq&repo=juancumbeq&show_icons=true&theme=nightowl&hide_border=true&border_radius=15" />
 	</a>
-</p>
+</p> -->
 <br/>
 <!--FULLSTACK PROJECTS-->
 <!-- <details>
