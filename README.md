@@ -110,7 +110,6 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 <p align="center">
   <b>🎉&nbsp;&nbsp;&nbsp; Others</b>
 <p>
-<br/> 
 <p align="center">
   <a target="_blank"><img alt="Git" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
   &nbsp;&nbsp;&nbsp;
