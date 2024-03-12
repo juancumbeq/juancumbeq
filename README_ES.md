@@ -59,7 +59,7 @@ Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo dig
 
 <!--LANGUAGES HIGHLIGHTS-->
 <p align="center">
-  <b>🚀&nbsp;&nbsp;&nbsp; Front-end</b>
+  <b>🌐&nbsp;&nbsp;&nbsp; Front-end</b>
 <p>
 <br/> 
 <p align="center">
@@ -80,9 +80,10 @@ Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo dig
 </p>
 <br/>
 <br/>
+<br/>
 
 <p align="center">
-  <b>🚀&nbsp;&nbsp;&nbsp; Back-end</b>
+  <b>🖥️&nbsp;&nbsp;&nbsp; Back-end</b>
 <p>
 <br/> 
 <p align="center">
@@ -101,9 +102,10 @@ Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo dig
 </p>
 <br/>
 <br/>
+<br/>
 
 <p align="center">
-  <b>🚀&nbsp;&nbsp;&nbsp; Otros</b>
+  <b>🎉&nbsp;&nbsp;&nbsp; Otros</b>
 <p>
 <br/> 
 <p align="center">
