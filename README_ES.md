@@ -58,7 +58,9 @@ Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo dig
 <br/>
 
 <!--LANGUAGES HIGHLIGHTS-->
-<b>🚀&nbsp;&nbsp;&nbsp; Front-end</b>
+<p align="center">
+  <b>🚀&nbsp;&nbsp;&nbsp; Front-end</b>
+<p>
 <br/> 
 <p align="center">
   <a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
@@ -79,7 +81,9 @@ Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo dig
 <br/>
 <br/>
 
-<b>🚀&nbsp;&nbsp;&nbsp; Back-end</b>
+<p align="center">
+  <b>🚀&nbsp;&nbsp;&nbsp; Back-end</b>
+<p>
 <br/> 
 <p align="center">
   <a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
@@ -98,7 +102,9 @@ Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo dig
 <br/>
 <br/>
 
-<b>🚀&nbsp;&nbsp;&nbsp; Otros</b>
+<p align="center">
+  <b>🚀&nbsp;&nbsp;&nbsp; Otros</b>
+<p>
 <br/> 
 <p align="center">
   <a target="_blank"><img alt="Git" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
