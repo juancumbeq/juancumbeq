@@ -66,7 +66,6 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 <p align="center">
   <b>🌐&nbsp;&nbsp;&nbsp; Front-end</b>
 <p>
-<br/> 
 <p align="center">
   <a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
   &nbsp;&nbsp;&nbsp;
@@ -90,7 +89,6 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 <p align="center">
   <b>🖥️&nbsp;&nbsp;&nbsp; Back-end</b>
 <p>
-<br/> 
 <p align="center">
   <a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
   &nbsp;&nbsp;&nbsp;
