@@ -110,7 +110,7 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 <br/>
 
 <p align="center">
-  <b>🎉&nbsp;&nbsp;&nbsp; Otros</b>
+  <b>🎉&nbsp;&nbsp;&nbsp; Others</b>
 <p>
 <br/> 
 <p align="center">
