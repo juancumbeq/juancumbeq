@@ -60,7 +60,7 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 <!--LANGUAGES HIGHLIGHTS-->
 
 <p align="center">
-  <b>🌐&nbsp;&nbsp;&nbsp; Front-end</b>
+  <b>Front-end</b>
 <p>
 <p align="center">
   <a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
@@ -83,12 +83,10 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 <br/>
 
 <p align="center">
-  <b>🖥️&nbsp;&nbsp;&nbsp; Back-end</b>
+  <b>Back-end</b>
 <p>
 <p align="center">
   <a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a target="_blank"><img alt="JavaScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
   &nbsp;&nbsp;&nbsp;
   <a target="_blank"><img alt="NodeJS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
   &nbsp;&nbsp;&nbsp;
@@ -104,7 +102,7 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 <br/>
 
 <p align="center">
-  <b>🎉&nbsp;&nbsp;&nbsp; Others</b>
+  <b>Others</b>
 <p>
 <p align="center">
   <a target="_blank"><img alt="Git" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
