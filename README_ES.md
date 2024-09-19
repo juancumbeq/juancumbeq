@@ -24,7 +24,7 @@ Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo dig
 <p align="center">
   <a target="_blank" href="mailto:hello@juancumbe.com?subject=Mensaje%20desde%20Github%20-%20Hola%20Juan%20Cumbe"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.instagram.com/juancumbeq/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <!-- <a target="_blank" href="https://www.instagram.com/juancumbeq/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.linkedin.com/in/juancumbeq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,8 +41,7 @@ Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo dig
 - 🔭 Actualmente estoy trabajando en crear un **portfolio** impresionante para mostrar mis habilidades.
 - 🌱 Actualmente estoy aprendiendo **TypeScript**.
 - 👯 Estoy buscando colaborar en proyectos relacionados con **Blockchain** o **IA**.
-- 🤔 Estoy buscando ayuda en mi camino como **Desarrollador Junior FullStack**.
-- 💬 Pregúntame sobre **CrossFit, motocicletas, comida y código**.
+- 💬 Pregúntame sobre **CrossFit, motos, comida y código**.
 - 📫 Cómo contactarme?: por **correo electrónico**, mediante el enlace superior.
 - 📇 Currículum: [Inglés](https://www.linkedin.com/in/juancumbeq/overlay/1708013726640/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY) o [Castellano](https://www.linkedin.com/in/juancumbeq/overlay/1708013762927/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY).
 
@@ -59,7 +58,7 @@ Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo dig
 
 <!--LANGUAGES HIGHLIGHTS-->
 <p align="center">
-  <b>🌐&nbsp;&nbsp;&nbsp; Front-end</b>
+  <b>Front-end</b>
 <p>
 <p align="center">
   <a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
@@ -82,12 +81,10 @@ Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo dig
 <br/>
 
 <p align="center">
-  <b>🖥️&nbsp;&nbsp;&nbsp; Back-end</b>
+  <b>Back-end</b>
 <p>
 <p align="center">
   <a target="_blank"><img alt="TypeScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a target="_blank"><img alt="JavaScript" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
   &nbsp;&nbsp;&nbsp;
   <a target="_blank"><img alt="NodeJS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
   &nbsp;&nbsp;&nbsp;
@@ -103,7 +100,7 @@ Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo dig
 <br/>
 
 <p align="center">
-  <b>🎉&nbsp;&nbsp;&nbsp; Otros</b>
+  <b>Otros</b>
 <p>
 <p align="center">
   <a target="_blank"><img alt="Git" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
