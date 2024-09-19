@@ -1,5 +1,5 @@
 <p align="right">
-	<a href="README_ES.md">Haga clic aquí para versión en español</a>
+	<a href="README_ES.md">Haz clic aquí para versión en CASTELLANO</a>
 </p>
 
 <!--BANNER SUPERIOR-->
@@ -32,14 +32,14 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 <!--CONTACT ACTION BUTTONS-->
 <p align="center">
 	<a target="_blank" href="mailto:hello@juancumbe.com?subject=Mensaje%20desde%20Github%20-%20Hola%20Juan%20Cumbe"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a target="_blank" href="https://www.instagram.com/juancumbeq/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<!-- <a target="_blank" href="https://www.instagram.com/juancumbeq/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 	<a target="_blank" href="https://www.linkedin.com/in/juancumbeq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a target="_blank" href="https://www.juancumbe.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## <!--ABOUT ME-->
 <br/>
-<h3 align="center"">👽&nbsp;&nbsp;&nbsp;About Me</h3>
+<h1 align="center"">👽&nbsp;&nbsp;&nbsp;About Me</h3>
 <br/>
 
 - 🔭 I’m currently working on **creating an awesome portfolio to show my skillset**.
