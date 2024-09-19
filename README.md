@@ -11,7 +11,8 @@
 <!--WHAT I DO-->
 <p align="center">
 
-	👨🏽‍💻 Web & Multi-platform Developer  |⁣⁣  🖥 FullStack Especialist  |  ⚡️ Blockchain Technology Enthusiast
+    👨🏽‍💻 Web & Multi-platform Developer  |⁣⁣  🖥 FullStack Especialist  |  ⚡️ Blockchain Technology Enthusiast
+
 </p>
 
 <!--
@@ -38,27 +39,22 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 </p>
 
 ## <!--ABOUT ME-->
+
 <br/>
-<h1 align="center"">👽&nbsp;&nbsp;&nbsp;About Me</h3>
+<h3 align="center"">👽&nbsp;&nbsp;&nbsp;About Me</h3>
 <br/>
 
 - 🔭 I’m currently working on **creating an awesome portfolio to show my skillset**.
 - 🌱 I’m currently learning **TypeScript**.
 - 👯 I’m looking to collaborate on **Blockchain or AI related projects**.
-- 🤔 I’m looking for help with **my pah as a Junior Developer**.
 - 💬 Ask me about **CrossFit, motorbikes, food and code**.
 - 📫 How to reach me: **by email**, check the link above.
 - 📇 CV Resume: [English](https://www.linkedin.com/in/juancumbeq/overlay/1708013726640/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY) or [Spanish](https://www.linkedin.com/in/juancumbeq/overlay/1708013762927/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY).
 
-
 ## <!--TECHNOLOGIES AND LANGUAGES-->
+
 <br/>
 <h3 align="center"">🧰&nbsp;&nbsp;&nbsp;Languages and Tools</h3>
-<br/>
-<!--LANGUAGES PERCENT ANIMATION-->
-<p align="center">
-	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancumbeq&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-</p>
 <br/>
 
 <!--LANGUAGES HIGHLIGHTS-->
