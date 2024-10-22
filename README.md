@@ -49,7 +49,7 @@ I'm an aspiring junior full-stack developer eager to create an impact in the dig
 - 👯 I’m looking to collaborate on **Blockchain or AI related projects**.
 - 💬 Ask me about **CrossFit, motorbikes, food and code**.
 - 📫 How to reach me: **by email**, check the link above.
-- 📇 CV Resume: [English](https://www.linkedin.com/in/juancumbeq/overlay/1708013726640/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY) or [Spanish](https://www.linkedin.com/in/juancumbeq/overlay/1708013762927/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY).
+- 📇 CV Resume: [English](https://www.linkedin.com/in/juancumbeq/overlay/1729528888533/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY) or [Spanish](https://www.linkedin.com/in/juancumbeq/overlay/1729528852166/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY).
 
 ## <!--TECHNOLOGIES AND LANGUAGES-->
 

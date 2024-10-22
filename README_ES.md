@@ -43,7 +43,7 @@ Soy desarrollador junior fullstack, ansioso por crear un impacto en el mundo dig
 - 👯 Estoy buscando colaborar en proyectos relacionados con **Blockchain** o **IA**.
 - 💬 Pregúntame sobre **CrossFit, motos, comida y código**.
 - 📫 Cómo contactarme?: por **correo electrónico**, mediante el enlace superior.
-- 📇 Currículum: [Inglés](https://www.linkedin.com/in/juancumbeq/overlay/1708013726640/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY) o [Castellano](https://www.linkedin.com/in/juancumbeq/overlay/1708013762927/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY).
+- 📇 Currículum: [Inglés](https://www.linkedin.com/in/juancumbeq/overlay/1729528888533/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY) o [Castellano](https://www.linkedin.com/in/juancumbeq/overlay/1729528852166/single-media-viewer/?profileId=ACoAACMHdksBEy9RVCYtq42xSK27ryYG2gSs9fY).
 
 ## <!--TECHNOLOGIES AND LANGUAGES-->
 
